@@ -132,3 +132,4 @@ oms_db/
 .isort.cfg
 venv
 /venv
+db.sqlite3
